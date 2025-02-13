@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+transformers
+sentence-transformers
+google-api-python-client
