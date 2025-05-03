@@ -1,0 +1,14 @@
+{
+    "summarize_and_visualize_data": {
+        "trigger_word": ["summarize data", "visualize dataset", "explore data"],
+        "sample_payload": {
+            "data": [
+                {"Age": 25, "Gender": "Male", "Income": 50000},
+                {"Age": 30, "Gender": "Female", "Income": 60000},
+                {"Age": 22, "Gender": "Female", "Income": 45000},
+                {"Age": 28, "Gender": "Male", "Income": 52000}
+            ]
+        },
+        "prerequisite": null
+    }
+}
